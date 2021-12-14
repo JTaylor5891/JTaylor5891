@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JTaylor5891
+- 👋 Hi, I’m Jerry Taylor
 - 👀 I’m interested in cloud computing
 - 🌱 I’m currently learning linux, python, aws
 - 💞️ I’m looking to collaborate on any and everything
